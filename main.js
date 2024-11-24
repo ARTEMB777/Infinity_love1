@@ -6,7 +6,7 @@ canvas.height = window.innerHeight;
 
 const centerX = canvas.width / 2;
 const centerY = canvas.height / 2;
-const scale = 50; // Масштаб для збільшення серця
+const scale = 100; // Масштаб для збільшення серця
 let a = 0; // Початкове значення параметра
 
 function heartFunction(x, a) {
